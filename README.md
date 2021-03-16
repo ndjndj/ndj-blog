@@ -8,7 +8,9 @@
 about me と product の更新頻度はさほど高くない
 blog もおおくても1~2posts/day と考えると、SSG でよいのか？
 
-SSG or SSR
+JAM Stack
+
+### static site generator
 
 - React
   - gatsby.js
@@ -18,4 +20,12 @@ SSG or SSR
   - Nuxt.js
   - vuepress
 
+### HeadlessCMS
 
+- MicroCMS
+- Ghost
+
+### hosting
+
+- Netlify
+- other
