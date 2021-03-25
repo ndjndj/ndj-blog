@@ -14,18 +14,12 @@ JAM Stack
 
 - React
   - gatsby.js
-  - Next.js
-
-- vue.js
-  - Nuxt.js
-  - vuepress
-
+  - 
 ### HeadlessCMS
 
 - MicroCMS
-- Ghost
 
 ### hosting
 
 - Netlify
-- other
+
