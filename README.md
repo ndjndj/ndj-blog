@@ -14,7 +14,7 @@ JAM Stack
 
 - React
   - gatsby.js
-  - 
+  
 ### HeadlessCMS
 
 - MicroCMS
